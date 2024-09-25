@@ -1,0 +1,10 @@
+{
+  "name": "api-spec",
+  "packageManager": "yarn@3.5.1",
+  "dependencies": {
+    "@typespec/compiler": "^0.60.1",
+    "@typespec/http": "^0.60.0",
+    "@typespec/openapi3": "^0.60.0",
+    "@typespec/rest": "^0.60.0"
+  }
+}

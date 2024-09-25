@@ -1,0 +1,8 @@
+{
+  "name": "issue-typespec-4509",
+  "packageManager": "yarn@3.5.1",
+  "workspaces": [
+    "apps/*",
+    "apps/**/spec"
+  ]
+}
