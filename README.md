@@ -7,3 +7,5 @@
 1. `yarn`
 2. `cd apps/api/spec/`
 3. `yarn tsp compile .`
+
+![image](image.png)
