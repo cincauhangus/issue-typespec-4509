@@ -8,4 +8,13 @@
 2. `cd apps/api/spec/`
 3. `yarn tsp compile .`
 
-![image](image.png)
+
+## Results
+
+On Typespec v0.54.x:
+
+![image](image-v0.54.png)
+
+On Typespec v0.60.x:
+
+![image](image-v0.60.png)
